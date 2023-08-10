@@ -7,3 +7,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+This fulfills the online requirements on the IBM course for Git/Github.  
